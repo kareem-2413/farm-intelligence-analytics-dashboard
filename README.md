@@ -10,10 +10,15 @@ The dashboard provides insights such as when to irrigate, when to spray pesticid
 ⚙️ Key Features
 
 ✅ Real-Time Weather Analysis – Fetches and analyzes daily conditions from Open-Meteo API
+
 ✅ Market Price Monitoring – Gathers multi-market data for Chilli, Cotton, Mango, and Papaya
+
 ✅ AI Automation – Automated daily runs at 6 AM IST via GitHub Actions
+
 ✅ Predictive Analytics Ready – Built to integrate ML models like NeuralProphet or sklearn regressors
+
 ✅ Streamlit Dashboard – Interactive, mobile-friendly, real-time insights dashboard
+
 ✅ Supabase Integration – Secure cloud backend for storing and managing live data
 
 🧩 Tech Stack
